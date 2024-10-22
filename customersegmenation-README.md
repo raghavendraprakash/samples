@@ -1,6 +1,7 @@
 ### Prerequisite
 Have Ray installed on local machine
-
+### Note
+OnlineRetail.xlsx contains sample data for your experiment
 ### Execute
 pip install "ray[all]" openpyxl scikit-learn
 
